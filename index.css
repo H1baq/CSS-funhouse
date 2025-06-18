@@ -8,6 +8,17 @@ body {
   padding: 2rem;
   min-height: 100vh;
 }
+.logo-img {
+  width: 64px;
+  height: 64px;
+  object-fit: contain;
+  border-radius: 50%;
+  border: 2px solid #facc15;
+  background-color: #0f172a; /* dark blue */
+  padding: 4px;
+}
+
+
 
 .certificate-container {
   width: 800px;
